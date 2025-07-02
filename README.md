@@ -1,7 +1,6 @@
 # LuckyDraw-Java 🎲
 
 Um sorteador de números aleatórios simples feito em Java.  
-Perfeito para rifas, sorteios, sorteios de prêmios, escolher participantes, etc.
 
 ## 🔥 O que faz?
 
